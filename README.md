@@ -1,6 +1,6 @@
 # Project EYE 
 
-Project EYE is a computer vision-based application designed to [Identify eye state(open/close) in real time]. This project leverages state-of-the-art computer vision datasets and libraries to achieve high accuracy and performance.
+Project EYE is a computer vision-based application designed to Identify eye state(open/close) in real time. This project leverages state-of-the-art computer vision datasets and libraries to achieve high accuracy and performance.
 
 ---
 
@@ -18,7 +18,7 @@ Project EYE is a computer vision-based application designed to [Identify eye sta
 
 ## Overview
 
-Project EYE aims to [insert detailed description of the project]. It is built using Python and popular computer vision libraries such as OpenCV and Pytorch.
+Project EYE aims to Identify eye state(open/close) in real time. It is built using Python and popular computer vision libraries such as OpenCV and Pytorch.
 
 **ChatGpt 4-o was used to outline and organize code in final stage**
 
