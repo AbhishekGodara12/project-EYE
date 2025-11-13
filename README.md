@@ -81,7 +81,7 @@ project-EYE/
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/project-EYE.git
+    git clone https://github.com/AbhishekGodara12/project-EYE.git
     cd project-EYE
     ```
 2. Create a virtual environment:
