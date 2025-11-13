@@ -1,0 +1,28 @@
+pip==25.3
+#COMPUTER VISION
+numpy==1.26.4
+scipy==1.16.3
+pillow==12.0.0
+opencv-python==4.11.0.86
+opencv-contrib-python==4.11.0.86
+mediapipe==0.10.21
+scikit-image==0.25.2
+matplotlib==3.10.7
+seaborn==0.13.2
+pandas==2.3.3
+scikit-learn==1.7.2
+tqdm==4.67.1
+tensorboard>=2.16
+
+#DEEP LEARNING
+# Use official PyTorch CUDA 12.1 wheels for RTX 4050 GPU:
+torch==2.5.1+cu121
+torchvision==0.20.1+cu121
+torchaudio==2.5.1+cu121
+# Installed via: 
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
+#OTHERS
+IProgress==0.4
+ipykernel==7.1.0
+ipywidgets==8.1.8
